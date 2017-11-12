@@ -1,0 +1,19 @@
+{
+  "contributors": [
+    {
+      "name": "Attawit Kittikrairit",
+      "url": "https://github.com/atton16"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for EventSource",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/eventsource",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
