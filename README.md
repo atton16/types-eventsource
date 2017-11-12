@@ -1,4 +1,15 @@
+*NOTICE: THIS IS NOT THE OFFICIAL @types/eventsource package. This project is not hosted on NPM registry*
+
 # Installation
+package.json
+```json
+{
+  "devDependencies": {
+    "@types/eventsource": "git+https://github.com/atton16/types-eventsource.git"
+  }
+}
+```
+
 > `npm install --save @types/eventsource`
 
 # Summary
